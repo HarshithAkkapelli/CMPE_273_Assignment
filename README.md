@@ -23,16 +23,16 @@ npm install
 npm run dev
 
 ```
-![Running Frontend](./d.png)
+![Running Frontend](./frontend.png)
 
 ### Backend
 
 ```bash
 cd backend
-Add your OPEN_API_KEY In server.py
+Add your OPEN_API_KEY In line number 9 of server.py
 python server.py
 ```
-![Running Backend](./c.png)
+![Running Backend](./backend.png)
 
 ## Features Showcase
 
@@ -40,11 +40,11 @@ python server.py
 
 Engage with the chat UI for all your auditing needs. Here's a snapshot of how the interface looks when you ask a task-related query.
 
-![Asking Task Related Query](./a.png)
+![Asking Task Related Query](./taxQuery.png)
 
 ### Asking Questions Not Related to Tax
 
 Our chat UI is versatile! Here's a snapshot showcasing the response when you venture outside the bounds of tax-related queries.
 
-![Asking Question Not Related to Tax](./b.png)
+![Asking Question Not Related to Tax](./nonTaxQuery.png)
 
