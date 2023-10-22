@@ -1,6 +1,6 @@
 # Deloitte Auditor Enterprise Chat UI 🚀
 
-_A modern chat interface built specifically for Deloitte Auditor Enterprise._
+_A modern chat interface built specifically for Tax relate queries._
 
 > Author: **Harshith Akkapelli**
 
@@ -23,13 +23,16 @@ npm install
 npm run dev
 
 ```
+![Running Frontend](./d.png)
 
 ### Backend
 
 ```bash
 cd backend
+Add your OPEN_API_KEY In server.py
 python server.py
 ```
+![Running Backend](./c.png)
 
 ## Features Showcase
 
