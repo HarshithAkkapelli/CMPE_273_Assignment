@@ -1,6 +1,6 @@
 # Deloitte Auditor Enterprise Chat UI 🚀
 
-_A modern chat interface built specifically for Tax relate queries._
+_A modern chat interface built specifically for Tax related queries._
 
 > Author: **Harshith Akkapelli**
 
